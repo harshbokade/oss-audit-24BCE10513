@@ -1,0 +1,28 @@
+============================================================
+        MY OPEN SOURCE MANIFESTO — VLC EDITION             
+  Generated on : 31 March 2026                                      
+  Author       : tempuser                                  
+============================================================
+
+  I chose VLC as the subject of my open-source audit
+  because its story is one of the purest in open source:
+  students with a problem, no money, and a willingness
+  to build something and give it away.
+
+  Every day, I use Python — a tool that exists because
+  someone made the same choice those Paris students made
+  in 1996: to build in the open and share without condition.
+  To me, freedom means Choice. VLC embodies that through
+  its GPL v2 license — anyone can study the code, improve
+  it, and pass those improvements back to the world.
+
+  Inspired by this, I would build Fake image detection tool and release it
+  as open source — because the best software is not the
+  software that makes the most money, but the software
+  that helps the most people.
+
+  Open source is not just a license. It is a choice:
+  to build for people, not profit.
+
+  — tempuser, 31 March 2026
+============================================================
